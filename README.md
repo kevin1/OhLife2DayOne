@@ -17,5 +17,10 @@ java OhLife2DayOneTester /path/to/ohlife_20131031.txt "10:00:00 PM"
 
 Note: OhLife doesn't save the time of entries, but Day One does. Use the second argument to specify the time to set in Day One when importing entries.
 
+## Tips
+1. If you already have entries, go to File > Back Up Journal before using this.
+2. If you have a lot of entries, quit Day One to make things go faster.
+3. Use at your own risk.
+
 ## Questions?
 @kevinchen on Twitter
