@@ -9,9 +9,11 @@ There are a lot of programs to migrate a text file exported from OhLife to Day O
 3. Install the [Day One CLI](https://dayone.zendesk.com/hc/en-us/articles/200258954-Day-One-Tools).
 4. Run this program!
 
-	cd OhLife2DayOne
-	javac *.java
-	java OhLife2DayOneTester /path/to/ohlife_20131031.txt "10:00:00 PM"
+```bash
+cd OhLife2DayOne
+javac *.java
+java OhLife2DayOneTester /path/to/ohlife_20131031.txt "10:00:00 PM"
+```
 
 Note: OhLife doesn't save the time of entries, but Day One does. Use the second argument to specify the time to set in Day One when importing entries.
 
